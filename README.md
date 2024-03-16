@@ -17,9 +17,13 @@ Please refer to [Installation]((https://github.com/PaddlePaddle/PaddleDetection/
   ```
 
 2. Replace all files
-   e.g., replace infer_cfg_pphuman.yml in the deploy\pipeline\config. replace cfg_utils.py in the deploy\pipeline.
+   e.g., replace infer_cfg_pphuman.yml in the deploy\pipeline\config.
+   replace cfg_utils.py in the deploy\pipeline.
+   add pipeline_3.py in the deploy\pipeline.
 
-
+3. Download trained models:https://1drv.ms/f/c/a06eaf90ae36c2e5/EhOS_ar7rB9CqwkGm-P4fxQBPUMtkqDCSqVPSBXIlDahbQ?e=Su2ez0
+   replace the deploy\pipeline\models folder.
+   
 
 ## Test 
 
