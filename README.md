@@ -21,7 +21,7 @@ Please refer to [Installation]((https://github.com/PaddlePaddle/PaddleDetection/
    replace cfg_utils.py in the deploy\pipeline.
    add pipeline_3.py in the deploy\pipeline.
 
-3. Download trained models:https://1drv.ms/f/c/a06eaf90ae36c2e5/EhOS_ar7rB9CqwkGm-P4fxQBPUMtkqDCSqVPSBXIlDahbQ?e=Su2ez0
+3. Download [trained models](https://1drv.ms/f/c/a06eaf90ae36c2e5/EhOS_ar7rB9CqwkGm-P4fxQBPUMtkqDCSqVPSBXIlDahbQ?e=Su2ez0) or [models](https://cloud.tsinghua.edu.cn/d/c12f31ff76294990b654/)
    replace the deploy\pipeline\models folder.
    
 
