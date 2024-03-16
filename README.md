@@ -16,7 +16,8 @@ Please refer to [Installation]((https://github.com/PaddlePaddle/PaddleDetection/
   git clone https://github.com/kailaisun/Head-tracking-for-occupancy-counting
   ```
 
-  
+2. Replace all files
+   e.g., replace infer_cfg_pphuman.yml in the deploy\pipeline\config. replace cfg_utils.py in the deploy\pipeline.
 
 
 
