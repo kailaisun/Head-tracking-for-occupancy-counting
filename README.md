@@ -4,6 +4,7 @@
 
 ## Environment
 - The code is tested on Ubuntu 20.04.2, python 3.8, cuda 11.1.
+- The code is tested on Windows 10, python 3.8, cuda 11.1.
 
 
 ## Installation
@@ -19,13 +20,11 @@
 
 
 
-## Train 
+## Test 
 
-```
-### DFMM
 
 ```Bash
-python trainer.py
+python pipeline_3.py
 ```
 
 
