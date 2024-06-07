@@ -33,4 +33,7 @@ An short example video is uploaded, you can test our method with the following o
 python deploy/pipeline/pipeline_3.py --config deploy/pipeline/config/infer_cfg_pphuman.yml --video_file example.mp4 --device gpu --do_entrance_counting --draw_center_traj --child True
 ```
 
+The infer result of example video is shown below:
+
+![Demo GIF](output.gif)
 
