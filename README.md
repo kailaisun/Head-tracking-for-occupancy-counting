@@ -23,7 +23,11 @@ Please refer to [Installation]((https://github.com/PaddlePaddle/PaddleDetection/
 
 3. Download trained  [models](https://cloud.tsinghua.edu.cn/d/c12f31ff76294990b654/)
    replace the deploy\pipeline\models folder.
-   
+
+
+## Dataset Example
+Our dataset is not open source due to privacy. But we can show some samples with mosaic below:
+
 
 ## Test 
 
