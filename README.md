@@ -28,7 +28,7 @@ Please refer to [Installation]((https://github.com/PaddlePaddle/PaddleDetection/
 ## Dataset Example
 Our dataset is not open source due to privacy. But we can show some samples with mosaic below:
 
-![Image 1](outdoor_example.png) | ![Image 2](indoor_example.png) | ![Image 3](side_example.png)
+![Image 1](outdoor_example1.png) | ![Image 2](indoor_example1.png) | ![Image 3](side_example.png)
 
 The perspectives of the three images are outdoors, indoors, and side view, corresponding to positions A, B, and C in the layout below：
 
