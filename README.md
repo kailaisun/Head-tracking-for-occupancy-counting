@@ -44,5 +44,5 @@ python deploy/pipeline/pipeline_3.py --config deploy/pipeline/config/infer_cfg_p
 
 The infer result of example video is shown below:
 
-![Demo GIF](output.gif)
+![Demo GIF](example_result1.gif)
 
