@@ -28,11 +28,13 @@ Please refer to [Installation]((https://github.com/PaddlePaddle/PaddleDetection/
 ## Dataset Example
 Our dataset is not open source due to privacy. But we can show some samples with mosaic below:
 
-![Image 1](outdoor_example1.png) | ![Image 2](indoor_example1.png) | ![Image 3](side_example.png)
+<img src="outdoor_example1.png" width="30%"> <img src="indoor_example1.png" width="30%"> <img src="side_example.png" width="31%">
+
 
 The perspectives of the three images are outdoors, indoors, and side view, corresponding to positions A, B, and C in the layout below：
 
-![Image](layout1.jpg)
+ <img src="layout1.jpg" width="40%">
+
 
 ## Test 
 
