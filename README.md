@@ -26,7 +26,6 @@ Please refer to [Installation]((https://github.com/PaddlePaddle/PaddleDetection/
 
 
 ## Dataset Example
-Our dataset is not open source due to privacy. But we can show some samples with mosaic below:
 
 <img src="outdoor_example1.png" width="30%"> <img src="indoor_example1.png" width="30%"> <img src="side_example.png" width="31%">
 
@@ -38,7 +37,7 @@ The perspectives of the three images are outdoors, indoors, and side view, corre
 
 ## Test 
 
-A short example video is uploaded, you can test our method with the following order. You can also infer other videos by change the video_file root.
+An example video is uploaded, you can test our method with the following order. You can also infer other videos by change the video_file root.
 
 ```Bash
 python deploy/pipeline/pipeline_3.py --config deploy/pipeline/config/infer_cfg_pphuman.yml --video_file example.mp4 --device gpu --do_entrance_counting --draw_center_traj --child True
