@@ -1,6 +1,9 @@
-# Occupancy-counting
+# [High-accuracy occupancy counting at crowded entrances for smart buildings](https://www.sciencedirect.com/science/article/pii/S037877882400625X)
 
 
+ <img src="oo2.jpg" width="100%">
+ 
+[Paper](https://www.sciencedirect.com/science/article/pii/S037877882400625X)
 
 ## Environment
 - The code is tested on Ubuntu 20.04.2, python 3.8, cuda 11.1.
@@ -47,3 +50,29 @@ The infer result of example video is shown below:
 
 ![Demo GIF](example_result1.gif)
 
+
+
+## Citation
+
+```
+@article{SUN2024114509,
+         title = {High-accuracy occupancy counting at crowded entrances for smart buildings},
+         journal = {Energy and Buildings},
+         volume = {319},
+         pages = {114509},
+         year = {2024},
+         issn = {0378-7788},
+         doi = {https://doi.org/10.1016/j.enbuild.2024.114509},
+         author = {Kailai Sun and Xinwei Wang and Tian Xing and Shaobo Liu and Qianchuan Zhao}
+}
+```
+
+
+
+## License
+
+The repository is licensed under the [Apache 2.0 license](LICENSE).
+
+## Contact Us
+
+If you have other questions❓, please contact us in time 👬
